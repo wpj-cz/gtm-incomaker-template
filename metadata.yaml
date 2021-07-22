@@ -1,5 +1,5 @@
 homepage: "https://www.wpj.cz"
 documentation: "https://www.wpj.cz"
 versions:
-  - sha: f7063a2e14b23cc89a2a027ddcff4a69f922738f
+  - sha: 5901751cbc6f161f9f48754abe391d918f845b8e
     changeNotes: Initial test release. 
